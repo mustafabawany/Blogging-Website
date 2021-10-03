@@ -18,5 +18,5 @@
 <ul>
   <li> npm install </li>
   <li> nodemon app.js </li>
-  <li> Browse the following link: http://localhost:3000 </li>
+  <li> Browse the following link: <a href="http://localhost:3000">Local Host</a></li>
   </ul>
