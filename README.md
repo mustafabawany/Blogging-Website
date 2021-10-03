@@ -12,3 +12,11 @@
   <li> MongoDB </li>
   <li> Mongoose </li>
   </ul>
+
+## How to execute
+
+<ul>
+  <li> npm install </li>
+  <li> nodemon app.js </li>
+  <li> Browse the following link: http://localhost:3000 </li>
+  </ul>
